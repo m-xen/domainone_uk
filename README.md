@@ -1,6 +1,6 @@
-# domainone[.]uk
+# Welcome
 
-This site is a collection of notes about the things that interest me. 
+www[.]domainone[.]uk is a collection of notes about the things that interest me. 
 
 The main purpose of creating it is to experiment with technology, as that's the field I'm in professionally.
 
