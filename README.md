@@ -14,4 +14,4 @@ You should regard it as just a work in progress for the foreseeable future.
   
 ## 禅  
 
-![](/assets/IMG_0078.JPG "Manchester, UK")
+![](/assets/IMG_0078.jpg "London, UK")
