@@ -6,8 +6,10 @@ Its main purpose is to allow me to experiment with the related technology (GitHu
 
 You should regard it as just a work in progress for the foreseeable future.
 
-[homelab](/homelab/lab.md)
+[My GitHub Repo](https://github.com/m-xen)
 
-[about](/about/contact.md)  
+[My Homelab](/homelab/lab.md)
+
+[Contact](/about/contact.md)  
   
 ## 禅  
