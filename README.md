@@ -13,3 +13,5 @@ You should regard it as just a work in progress for the foreseeable future.
 [Contact](/about/contact.md)  
   
 ## 禅  
+
+![](/assets/IMG_0078.JPG "Manchester, UK")
