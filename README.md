@@ -1,3 +1,5 @@
 # domainone
 
-[about](/about/contact.md) ![screenshot](/assests/translated.png)
+![screenshot](/assests/translated.png)
+
+[about](/about/contact.md)
