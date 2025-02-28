@@ -10,6 +10,8 @@ You should regard it as just a work in progress for the foreseeable future.
 
 [My Homelab](/homelab/lab.md)
 
+[My Folding@home donor profile](https://stats.foldingathome.org/donor/id/612281)
+
 [Contact](/about/contact.md)  
   
 ## 禅  
