@@ -8,6 +8,6 @@ You should regard it as a work in progress for the foreseeable future.
 
 [homelab](/homelab/lab.md)
 
-[about](/about/contact.md)
-
-![](assets/translated.png)
+[about](/about/contact.md)  
+  
+## 禅  
