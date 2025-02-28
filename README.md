@@ -3,4 +3,4 @@
 
 [about](/about/contact.md)
 
-<img src="assets/translated.png" width=10%>
+<img src="https://domainone.uk/assets/translated.png" width=10%>
