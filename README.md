@@ -2,9 +2,9 @@
 
 www[.]domainone[.]uk is a collection of notes about the things that interest me. 
 
-The main purpose of creating it is to experiment with technology, as that's the field I'm in professionally.
+Its main purpose is to allow me to experiment with the related technology (GitHub Pages, Domain & DNS Management, Markdown etc.).
 
-You should regard it as a work in progress for the foreseeable future.
+You should regard it as just a work in progress for the foreseeable future.
 
 [homelab](/homelab/lab.md)
 
