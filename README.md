@@ -1,4 +1,4 @@
-# domainone uk
+# domainone[.]uk
 
 This site is a collection of notes about the things that interest me. 
 
