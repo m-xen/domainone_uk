@@ -1,4 +1,4 @@
-# Welath Inequality
+# Wealth Inequality
 
 [Wealth Economics](https://www.wealtheconomics.org)
 
