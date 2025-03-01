@@ -12,6 +12,8 @@ You should regard it as just a work in progress for the foreseeable future.
 
 [My Folding@home donor profile](https://stats.foldingathome.org/donor/id/612281)
 
+[Wealth Inequality](/inequality/inequality.md)
+
 [Contact](/about/contact.md)  
   
 ## 禅  
