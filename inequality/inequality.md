@@ -2,7 +2,7 @@
 
 [Wealth Economics](https://www.wealtheconomics.org)
 
-I've been watching this guy on YouTube recently, and read his book, and I like hearing his perspective as a former trader in Canary Wharf - a world most are never likely to experience.
+I've been watching this guy on YouTube recently, and have since read his book. A trader for a major bank in Canary Wharf has a very different world view than most, and I think a window into that is useful.
 
 I making a few changes to how I live in response;
 
