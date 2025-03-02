@@ -4,6 +4,6 @@ I've recently discovered the [Zettelkasten](https://www.microsoft.com/en-us/micr
 
 This is one of the reasons I've started using GitHub Pages to create the [Markdown](https://daringfireball.net/projects/markdown/) webpages you are currently browsing. 
 
-The link between them being the [Zettelkasten guide](https://youtu.be/L2z7j7Jho4E?si=III3V-zqcIaMRv71) I found used Obsidian, which uses Markdown.
+The link between them being the [Zettelkasten guide](https://youtu.be/L2z7j7Jho4E?si=III3V-zqcIaMRv71) I found used [Obsidian](https://obsidian.md), which uses Markdown.
 
 [home](/)
