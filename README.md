@@ -2,8 +2,6 @@
 
 www[.]domainone[.]uk is a collection of notes about the things that interest me. 
 
-You should regard it as just a work in progress for the foreseeable future.
-
 [My GitHub Repo](https://github.com/m-xen)
 
 [My Homelab](/homelab/lab.md)
