@@ -17,7 +17,7 @@ Containers:
 * Cloudflared (https://hub.docker.com/r/cloudflare/cloudflared)
 * Portainer (https://docs.portainer.io/start/install-ce/server/docker/linux)
 
-Home networking:
+Home network:
 * ASUS ZenWifi Mesh (https://www.asus.com/uk/content/zenwifi/)
 * Cloudflare ZTNA (https://www.cloudflare.com/en-gb/zero-trust/products/access/)
 * RunZero (https://www.runzero.com)
