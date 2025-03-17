@@ -6,7 +6,7 @@ www[.]domainone[.]uk is a collection of notes about the things that interest me.
 
 [My Homelab](/homelab/lab.md)
 
-[Zettelkasten Note Taking](/notes/zettelkasten.md)
+[Note-taking](/notes/zettelkasten.md)
 
 [My Folding@home donor profile](https://stats.foldingathome.org/donor/id/612281)
 
