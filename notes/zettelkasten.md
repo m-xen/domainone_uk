@@ -1,6 +1,6 @@
-# Zettelkasten
+# Note-taking
 
-I've recently discovered the [Zettelkasten](https://www.microsoft.com/en-us/microsoft-365-life-hacks/organization/how-to-use-the-zettelkasten-method) method of notetaking.
+I've recently discovered the [Zettelkasten](https://www.microsoft.com/en-us/microsoft-365-life-hacks/organization/how-to-use-the-zettelkasten-method) method of note-taking.
 
 This is one of the reasons I've started using GitHub Pages to create the [Markdown](https://daringfireball.net/projects/markdown/) webpages you are currently browsing. 
 
